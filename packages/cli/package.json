@@ -155,6 +155,7 @@
     "posthog-node": "3.2.1",
     "prom-client": "13.2.0",
     "psl": "1.9.0",
+    "puppeteer": "^20.9.0",
     "raw-body": "2.5.1",
     "reflect-metadata": "catalog:",
     "replacestream": "4.0.3",
@@ -174,7 +175,6 @@
     "xmllint-wasm": "3.0.1",
     "xss": "catalog:",
     "yamljs": "0.3.0",
-    "zod": "catalog:",
-    "puppeteer": "^20.8.2"
+    "zod": "catalog:"
   }
 }
